@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+
+# Shuchi
+Waste Management System- Tink her hack 2026 Hackathon
+
 Project Description:Shuchi (ശുചി)
 
 Shuchi is a specialized waste management web application designed to digitize and streamline the operations of the Haritha Karma Sena (Green Action Force). The platform serves as a bridge between local residents and waste collection workers, focusing on improving the efficiency of house-to-house collection tracking within Kerala's municipalities.
@@ -50,8 +53,3 @@ License & Team:
 Team Members: Fathima Marfin, Maisa Ismail
 
 License: Distributed under the MIT License.
-
-=======
-# Shuchi
-Waste Management System- Tink her hack 2026 Hackathon
->>>>>>> f9caf9c96e22fbf3c849208b8eed1cbeabeaca2d
